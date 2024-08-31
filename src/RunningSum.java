@@ -19,5 +19,5 @@ public class RunningSum {
         return newArr;
     }
 
-    //Return the running sum of elements
+    //Return the running sum of elements.
 }
